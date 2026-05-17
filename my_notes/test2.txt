@@ -1,0 +1,2 @@
+App Idea - GreenThumb:
+An app that uses local weather data to remind you exactly when to water your specific household plants. Need to look into free weather APIs.
