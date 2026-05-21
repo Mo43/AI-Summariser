@@ -1,0 +1,4 @@
+smolagents
+python-dotenv
+huggingface_hub
+pymupdf
