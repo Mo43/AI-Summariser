@@ -2,3 +2,5 @@ smolagents
 python-dotenv
 huggingface_hub
 pymupdf
+fastapi
+uvicorn
