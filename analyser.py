@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 from smolagents import CodeAgent, InferenceClientModel
 
-#api key
 load_dotenv()
 
 #free cloud model hugging face 
